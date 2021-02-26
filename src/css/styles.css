@@ -1,0 +1,14 @@
+#piedepagina {
+    width: 960px;
+    margin: auto;
+}
+
+#piedepagina>.logofooter{
+    width: 200px;
+    margin: auto;
+}
+
+#piedepagina h1{
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+}
