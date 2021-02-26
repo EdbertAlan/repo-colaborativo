@@ -1,14 +1,18 @@
-#piedepagina {
-    width: 960px;
-    margin: auto;
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: yellowgreen;
+    color: tomato;
+
 }
 
-#piedepagina>.logofooter{
-    width: 200px;
-    margin: auto;
+.logouadeo{
+   margin-right: 90%;
+   width: 10%;
+   
 }
 
-#piedepagina h1{
-    display: inline;
-    font-family: Arial, Helvetica, sans-serif;
+.derechos{
+    margin-left: 80%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
