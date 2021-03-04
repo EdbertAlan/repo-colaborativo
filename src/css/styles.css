@@ -1,3 +1,19 @@
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: yellowgreen;
+    color: tomato;
+}
+
+.logouadeo{
+   margin-right: 90%;
+   width: 10%;
+}
+
+.derechos{
+    margin-left: 80%;
+}
+
 #Encabezado {
     width: 960px;
     margin: auto;
