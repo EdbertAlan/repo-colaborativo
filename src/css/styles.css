@@ -3,16 +3,26 @@ footer{
     padding: 3px;
     background-color: yellowgreen;
     color: tomato;
-
 }
 
 .logouadeo{
    margin-right: 90%;
    width: 10%;
-   
 }
 
 .derechos{
     margin-left: 80%;
+}
+
+#Encabezado {
+    width: 960px;
+    margin: auto;
+}
+
+#Encabezado>.Logo {
+    width: 50px;
+}
+#Encabezado h1 {
+    display: inline;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
